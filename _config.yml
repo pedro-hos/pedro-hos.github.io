@@ -72,3 +72,6 @@ deploy:
   repo: https://github.com/pedro-hos/pedro-hos.github.io
   branch: master
   message: 'update'
+  name: pedro-hos
+  email: pedro-hos@outlook.com
+  ignore_hidden: false
