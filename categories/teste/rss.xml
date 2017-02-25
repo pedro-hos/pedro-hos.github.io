@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Pedro Hos]]></title>
+    <link>http://pedro-hos.github.io/</link>
+    <atom:link href="categories/teste/rss.xml" rel="self" type="application/rss+xml"/>
+    <description><![CDATA[Software e cool stuffs.]]></description>
+    <pubDate>2017-02-25T00:37:28.000Z</pubDate>
+    <generator>http://zespia.tw/hexo/</generator>
+    
+    <item>
+      <title><![CDATA[Olá Mundo]]></title>
+      <link>http://pedro-hos.github.io/2017/01/26/hello-world/</link>
+      <guid>http://pedro-hos.github.io/2017/01/26/hello-world/</guid>
+      <pubDate>Thu, 26 Jan 2017 16:54:00 GMT</pubDate>
+      <description>
+      <![CDATA[<p>Seja bem vindo ao nosso blog técnico, aqui vamos abordar diversas tecnologias interessantes que utilizamos em nosso dia a dia.</p>
+]]>
+      </description>
+      <content:encoded><![CDATA[<p>Seja bem vindo ao nosso blog técnico, aqui vamos abordar diversas tecnologias interessantes que utilizamos em nosso dia a dia.</p>
+]]></content:encoded>
+      <comments>http://pedro-hos.github.io/2017/01/26/hello-world/#disqus_comments</comments>
+    </item>
+    
+  </channel>
+</rss>
