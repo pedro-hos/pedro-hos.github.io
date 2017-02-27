@@ -49,12 +49,12 @@ module.exports = function (hexo) {
 
     get_title: function (page) {
       if (page.title) {
-        return page.title + ' | GSW'
+        return page.title + ' | Pedro Hos'
       }
       if (page.tag) {
-        return page.tag + ' | GSW'
+        return page.tag + ' | Pedro Hos'
       }
-      return 'gsw.com.br'
+      return 'pedro-hos.github.io'
     },
 
     tags: function (tags, options) {
@@ -103,4 +103,3 @@ module.exports = function (hexo) {
     }
   }
 }
-

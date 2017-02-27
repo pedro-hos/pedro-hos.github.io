@@ -95,9 +95,9 @@ feed:
 
 theme_config:
   bio: "Desenvolvimento de Software"
-  author_image: "/images/author_image.png"
+  author_image: /images/author_image.png
   cover: /images/cover.jpg
-  main_image:  "/images/main_image.png"
+  main_image: /images/author_image.png
   twitter:
   github: pedro-hos
   logo: /images/logo/icon_72.png
