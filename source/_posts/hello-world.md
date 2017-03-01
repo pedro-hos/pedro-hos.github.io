@@ -1,4 +1,4 @@
-title: Olá Mundo
+title: Hello World
 authorId: LUAN
 tags:
   - hello
@@ -8,4 +8,4 @@ categories:
 author: Paulo Luan
 date: 2017-01-26 14:54:00
 ---
-Seja bem vindo ao nosso blog técnico, aqui vamos abordar diversas tecnologias interessantes que utilizamos em nosso dia a dia.
+Welcome to my blog. Here we will talk about many cool things, technologies, etc.
