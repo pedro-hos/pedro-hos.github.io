@@ -7,19 +7,19 @@
     <link>http://pedro-hos.github.io/</link>
     <atom:link href="categories/teste/rss.xml" rel="self" type="application/rss+xml"/>
     <description><![CDATA[Software e cool stuffs.]]></description>
-    <pubDate>2017-02-25T00:37:28.000Z</pubDate>
+    <pubDate>2017-02-28T20:48:53.000Z</pubDate>
     <generator>http://zespia.tw/hexo/</generator>
     
     <item>
-      <title><![CDATA[Olá Mundo]]></title>
+      <title><![CDATA[Hello World]]></title>
       <link>http://pedro-hos.github.io/2017/01/26/hello-world/</link>
       <guid>http://pedro-hos.github.io/2017/01/26/hello-world/</guid>
       <pubDate>Thu, 26 Jan 2017 16:54:00 GMT</pubDate>
       <description>
-      <![CDATA[<p>Seja bem vindo ao nosso blog técnico, aqui vamos abordar diversas tecnologias interessantes que utilizamos em nosso dia a dia.</p>
+      <![CDATA[<p>Welcome to my blog. Here we will talk about many cool things, technologies, etc.</p>
 ]]>
       </description>
-      <content:encoded><![CDATA[<p>Seja bem vindo ao nosso blog técnico, aqui vamos abordar diversas tecnologias interessantes que utilizamos em nosso dia a dia.</p>
+      <content:encoded><![CDATA[<p>Welcome to my blog. Here we will talk about many cool things, technologies, etc.</p>
 ]]></content:encoded>
       <comments>http://pedro-hos.github.io/2017/01/26/hello-world/#disqus_comments</comments>
     </item>
