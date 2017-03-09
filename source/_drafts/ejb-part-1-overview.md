@@ -10,4 +10,6 @@ categories:
   - JavaEE
 date: 2017-03-07 21:08:00
 ---
-Teste
+#### 1 - What's an EJB
+
+#### 2 - Types of EJB

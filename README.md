@@ -1,7 +1,3 @@
----
-GSW Enginering Blog
----
-
 ## Features
 
 We choose [Hexo](https://hexo.io/) and Github pages for our engineering blog, which is a fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org). Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html)
@@ -13,7 +9,7 @@ We choose [Hexo](https://hexo.io/) and Github pages for our engineering blog, wh
 
 ## Quick Start
 
-### Install all dependencies: 
+### Install all dependencies:
 
 ``` bash
 $ npm i
