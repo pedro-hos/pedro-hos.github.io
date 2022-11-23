@@ -48,29 +48,42 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pedro Hos and I'm a Senior Software Maintenance Engineer @ Red Hat. As well as developer systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills. I am also studying Data Science and Machine Learning.
+  Hi, my name's Pedro Hos and I'm a Senior Software Maintenance Engineer @ Red Hat. I am JUG Vale co-leader, Open Source, and Open Data enthusiast. As well as developer systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills. I am currently studying Data Science, Machine Learning and IA stuff.
 
-  I am most skilled in: <mark>Java</mark>, <mark>Wildfly</mark>, <mark>Keycloak</mark>, <mark>Spring-boot</mark> and other begginer in other languages like: <mark>R</mark>, <mark>Python</mark> and <mark>Go</mark>. Finnaly I have worked also with <mark>Docker</mark> and <mark>Podman</mark>.
+  I am most skilled in: <mark>Java</mark>, <mark>Wildfly</mark>, <mark>Keycloak</mark>, <mark>Spring-boot</mark>, <mark>Quakus</mark> and begginer in another languages like: <mark>R</mark>, <mark>Python</mark> and <mark>Go</mark>. Finnaly I have worked also with <mark>Docker</mark> and <mark>Podman</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Temis API
+        link: https://github.com/sjcdigital/temis-api
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  sjcdigital/temis-api
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/sjcdigital/temis-api
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This is a web scraping project that I created to "get" law project from my city São José dos Campos and other politician information and deliver it on a REST API. Was build using <mark>Java</mark>, <mark>JSoup</mark>, <mark>JMS</mark>, <mark>MySQL</mark>
+      - layout: top-middle
+        title: Orçamento Secreto
+        link: https://github.com/sjcdigital/data-analizes/tree/main/orcamento-secreto
+        # link_text: Project Website
+        additional_links:
+          - title:  sjcdigital/data-analizes
+            icon: fab fa-github
+            url: github.com/sjcdigital/data-analizes/tree/main/orcamento-secreto
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This is a web scraping project that I created to "get" secret budgets from Brazil that was not easily visible. So I got this information from the transparency portal and also collected the receiver's budget information through their documents. All information is avaible on a Postgres database dump. 
+          
+          Technologies used: <mark>Java</mark>, <mark>Quarkus</mark>, <mark>Apache Camel</mark>, <mark>JSoup</mark> and <mark>Postgres</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
