@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pedro Hos and I'm a Senior Software Maintenance Engineer @ Red Hat. I am JUG Vale co-leader, Open Source, and Open Data enthusiast. As well as developer systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills. I am currently studying Data Science, Machine Learning and IA stuff.
+  Hi, my name's Pedro Hos and I'm a Senior Software Maintenance Engineer @ Red Hat with +10 years of IT experience. I am JUG Vale co-leader, Open Source, and Open Data enthusiast. As well as developer systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills. I am currently studying Data Science, Machine Learning and IA stuff.
 
-  I am most skilled in: <mark>Java</mark>, <mark>Wildfly</mark>, <mark>Keycloak</mark>, <mark>Spring-boot</mark>, <mark>Quakus</mark> and begginer in another languages like: <mark>R</mark>, <mark>Python</mark> and <mark>Go</mark>. Finnaly I have worked also with <mark>Docker</mark> and <mark>Podman</mark>.
+  I am most skilled in: <mark>Java</mark>, <mark>Wildfly</mark>, <mark>Keycloak</mark>, <mark>Spring-boot</mark>, <mark>Quakus</mark>, <mark>JS</mark> and begginer in another languages like: <mark>R</mark>, <mark>Python</mark> and <mark>Go</mark>. Finnaly I have worked also with <mark>Docker</mark> and <mark>Podman</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -84,54 +84,125 @@ content:
           This is a web scraping project that I created to "get" secret budgets from Brazil that was not easily visible. So I got this information from the transparency portal and also collected the receiver's budget information through their documents. All information is avaible on a Postgres database dump. 
           
           Technologies used: <mark>Java</mark>, <mark>Quarkus</mark>, <mark>Apache Camel</mark>, <mark>JSoup</mark> and <mark>Postgres</mark>.
-
+      - layout: top-middle
+        title: Urbam Deaths
+        link: https://github.com/sjcdigital/urbam-deaths
+        # link_text: Project Website
+        additional_links:
+          - title:  sjcdigital/urbam-deaths
+            icon: fab fa-github
+            url: https://github.com/sjcdigital/urbam-deaths
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This is a web scraping project that I created to collect possible "Covid 19" deaths from my city São José dos Campos from the funeral service and generate a CSV and JSON files.
+          
+          Technologies used: <mark>Java</mark>, <mark>Quarkus</mark> and <mark>JSoup</mark>.
+      - layout: top-middle
+        title: Leo Crawler
+        link: https://github.com/sjcdigital/queimadas-data/tree/master/leo-crawler
+        # link_text: Project Website
+        additional_links:
+          - title:  sjcdigital/queimadas-data
+            icon: fab fa-github
+            url: https://github.com/sjcdigital/queimadas-data/tree/master/leo-crawler
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This is a web scraping project that I created to collect possible burning forests happening in Brazil from the INPE site. 
+          Technologies used: <mark>Java</mark>, <mark>Quarkus</mark>.
+      - layout: top-middle
+        title: Como Anda a Ciclovia?
+        link: https://github.com/sjcdigital/como-anda-a-ciclovia
+        # link_text: Project Website
+        additional_links:
+          - title:  sjcdigital/como-anda-a-ciclovia
+            icon: fab fa-github
+            url: https://github.com/sjcdigital/como-anda-a-ciclovia
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This is a web site create to monitor and detect cliclopaths conditions. 
+          Technologies used: <mark>Java</mark>, <mark>Quarkus</mark>, <mark>MySQL</mark>
+      - layout: top-middle
+        title: quarkus-file-vault
+        link: https://github.com/quarkiverse/quarkus-file-vault
+        # link_text: Project Website
+        additional_links:
+          - title:  quarkiverse/quarkus-file-vault
+            icon: fab fa-github
+            url: https://github.com/quarkiverse/quarkus-file-vault
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          I've helped to implement a new feature on Quarkus File Vault that can be used to encrypt a keystore password in order to mask it.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Red Hat
+        link: redhat.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Senior Software Maintenance Engineer
+        caption: September 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Java Products Maintenance by creating patches, sample applications, and writing articles to guide customers to use product features and documentation. I am the current JBoss Security Lead (SBR Coach) working with RH-SSO (Keycloak) and JBoss EAP Elytron (Wildfly Elytron).
       - layout: left
-        title: The Boring Company 2
-        link: boringcompany.com
+        title: Red Hat
+        link: redhat.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Software Maintenance Engineer
+        caption: March 2017 - September 2021
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-            
-
+            Java Products Maintenance by creating patches, sample application and writing articles to guide customers to use product features and documentation.
+      - layout: left
+        title: GSW Soluções Integradas
+        link: redhat.com
+        # link_text: boringcompany.com
+        sub_title: Senior Full Stack Developer
+        caption: March 2016 - March 2027
+        description: | # this will include new lines to allow paragraphs
+            Developing applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Rabbit MQ</mark>, <mark>Angular JS</mark> etc.
+      - layout: left
+        title: Gauge
+        link: redhat.com
+        # link_text: boringcompany.com
+        sub_title: Java Developer
+        caption: March 2016 - March 2027
+        description: | # this will include new lines to allow paragraphs
+            Developing web applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>JSF</mark> etc.      
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: FATEC Prof. Jessen Vidal
+        caption: 2008 - 2012
+        sub_title: Bachelor of Science in Information Technology, Databases Emphasis
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Fatec I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a committee member of the *VESTEC Course* taking on roles *Vice-President*.
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: USP/ESALQ
+        caption: 2021 - 2022
+        sub_title: Post-Graduation in Data Science, Machine Learning, and Analytics
+        description: | # this will include new lines to allow paragraphs
+          I am finishing my Post-Graduation in Data Science at USP, and the time spent studying there was good to understand better some IA and Data Science concepts.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - I make some "cachaça"
+      - Moutain biker
+      - Writter, with 2 books published: ["Kim, O corpo seco"](https://kotter.com.br/loja/kim-o-corpo-seco-pedro-hos/) my first novel and "[Pés no chão"](https://www.amazon.com.br/P%C3%A9s-no-ch%C3%A3o-Pedro-Hos-ebook/dp/B089M8PZB7)
 
 # Footer
 footer_show_references: true
