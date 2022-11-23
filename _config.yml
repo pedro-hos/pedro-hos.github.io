@@ -25,7 +25,7 @@ github_username:  pedro-hos
 linkedin_username: pedrohosilva
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: jugvale3355
+youtube_username: @jugvale3355
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -161,20 +161,52 @@ content:
             Java Products Maintenance by creating patches, sample application and writing articles to guide customers to use product features and documentation.
       - layout: left
         title: GSW Soluções Integradas
-        link: redhat.com
+        link: www.gsw.com.br
         # link_text: boringcompany.com
         sub_title: Senior Full Stack Developer
-        caption: March 2016 - March 2027
+        caption: March 2016 - March 2017
         description: | # this will include new lines to allow paragraphs
             Developing applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Rabbit MQ</mark>, <mark>Angular JS</mark> etc.
       - layout: left
         title: Gauge
-        link: redhat.com
+        link: gauge.digital
         # link_text: boringcompany.com
         sub_title: Java Developer
-        caption: March 2016 - March 2027
+        caption: March 2015 - March 2016
         description: | # this will include new lines to allow paragraphs
-            Developing web applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>JSF</mark> etc.      
+            Developing web applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Redis</mark>, <mark>Oracle</mark>, <mark>MongoDB</mark> etc.
+      - layout: left
+        title: GSW Soluções Integradas
+        link: www.gsw.com.br
+        # link_text: boringcompany.com
+        sub_title: Software Developer
+        caption: March 2014 - March 2015
+        description: | # this will include new lines to allow paragraphs
+            Developing applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Rabbit MQ</mark>, <mark>Angular JS</mark> etc.
+      - layout: left
+        title: Superpay Gateway de Pagamentos
+        #link: www.gsw.com.br
+        # link_text: boringcompany.com
+        sub_title: Software Developer
+        caption: March 2013 - March 2014
+        description: | # this will include new lines to allow paragraphs
+            Developing applications with <mark>Java</mark>, <mark>Spring</mark>, <mark>SOAP</mark>, <mark>REST</mark>, <mark>MySQL</mark> etc.
+      - layout: left
+        title: Focusnetworks Tecnologia
+        link: www.focusnetworks.com.br/
+        # link_text: boringcompany.com
+        sub_title: Software Developer
+        caption: March 2013 - May 2013
+        description: | # this will include new lines to allow paragraphs
+            Developing applications with <mark>Java</mark>, <mark>Spring</mark>, <mark>SOAP</mark>, <mark>REST</mark>, <mark>MySQL</mark> etc.
+      - layout: left
+        title: SSLTi Tecnlogia
+        #link: www.focusnetworks.com.br/
+        # link_text: boringcompany.com
+        sub_title: Intern Software Developer
+        caption: January 2012 - March 2013
+        description: | # this will include new lines to allow paragraphs
+            Java desktop developer with <mark>JavaFx</mark> and <mark>Oracle</mark> to read tags RFID
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
