@@ -217,7 +217,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Fatec I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
 
-          I spent a lot of my free time as a committee member of the *VESTEC Course* taking on roles *Vice-President*.
+          I spent a lot of my free time as a committee member of the *VESTEC Course* taking on roles *Vice-President* and *Math Teacher*.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
