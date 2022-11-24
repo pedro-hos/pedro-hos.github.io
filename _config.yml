@@ -185,7 +185,7 @@ content:
             Developing applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Rabbit MQ</mark>, <mark>Angular JS</mark> etc.
       - layout: left
         title: Superpay Gateway de Pagamentos
-        #link: www.gsw.com.br
+        link:
         # link_text: boringcompany.com
         sub_title: Software Developer
         caption: March 2013 - March 2014
@@ -201,7 +201,7 @@ content:
             Developing applications with <mark>Java</mark>, <mark>Spring</mark>, <mark>SOAP</mark>, <mark>REST</mark>, <mark>MySQL</mark> etc.
       - layout: left
         title: SSLTi Tecnlogia
-        #link: www.focusnetworks.com.br/
+        link:
         # link_text: boringcompany.com
         sub_title: Intern Software Developer
         caption: January 2012 - March 2013
@@ -218,9 +218,6 @@ content:
           During my time at Fatec I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
 
           I spent a lot of my free time as a committee member of the *VESTEC Course* taking on roles *Vice-President* and *Math Teacher*.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: USP/ESALQ
         caption: 2021 - 2022
