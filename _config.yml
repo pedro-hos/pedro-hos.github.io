@@ -224,7 +224,6 @@ content:
         sub_title: Post-Graduation in Data Science, Machine Learning, and Analytics
         description: | # this will include new lines to allow paragraphs
           I am finishing my Post-Graduation in Data Science at USP, and the time spent studying there was good to understand better some IA and Data Science concepts.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
