@@ -25,7 +25,7 @@ github_username:  pedro-hos
 linkedin_username: pedrohosilva
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: @jugvale3355
+youtube_username: '@jugvale3355'
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -161,7 +161,7 @@ content:
             Java Products Maintenance by creating patches, sample application and writing articles to guide customers to use product features and documentation.
       - layout: left
         title: GSW Soluções Integradas
-        link: www.gsw.com.br
+        link: gsw.com.br
         # link_text: boringcompany.com
         sub_title: Senior Full Stack Developer
         caption: March 2016 - March 2017
@@ -177,7 +177,7 @@ content:
             Developing web applications with <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Redis</mark>, <mark>Oracle</mark>, <mark>MongoDB</mark> etc.
       - layout: left
         title: GSW Soluções Integradas
-        link: www.gsw.com.br
+        link: gsw.com.br
         # link_text: boringcompany.com
         sub_title: Software Developer
         caption: March 2014 - March 2015
