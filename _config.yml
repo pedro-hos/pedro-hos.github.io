@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Pedro Henrique de Oliveira Silva (Pedro Hos)
-title: Senior Software Maintenance Engineer @ Red Hat
+title: Senior Software Engineer @ Red Hat
 email: pedro-hos@outlook.com
 website: www.github.com/pedro-hos
 
@@ -25,15 +25,18 @@ github_username:  pedro-hos
 linkedin_username: pedrohosilva
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: '@jugvale3355'
+youtube_username: '@pedrohosdev'
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: blog
+- title: blog EN
   icon: fas fa-globe
-  url: https://pedrohosilva.wordpress.com/
+  url: https://pedro-hos.github.io/blog
+- title: blog PT
+  icon: fas fa-globe
+  url: https://pedrohosilva.wordpress.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,10 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pedro Hos and I'm a Senior Software Maintenance Engineer @ Red Hat with +10 years of IT experience. I am JUG Vale co-leader, Open Source, and Open Data enthusiast. As well as developer systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills. I am currently studying Data Science, Machine Learning and IA stuff.
-
-  I am most skilled in: <mark>Java</mark>, <mark>Wildfly</mark>, <mark>Keycloak</mark>, <mark>Spring-boot</mark>, <mark>Quakus</mark>, <mark>JS</mark> and begginer in another languages like: <mark>R</mark>, <mark>Python</mark> and <mark>Go</mark>. Finnaly I have worked also with <mark>Docker</mark> and <mark>Podman</mark>.
-
+  'm Pedro Hos a passionate software developer with over 10 years of experience working with Java. Currently, I am a Senior Software Engineer at Red Hat, working on the Application Runtime Sustaining team (Wildfly, Quarkus, Keycloak). I lead the JUG Vale community and advocate for open data and open-source initiatives. I enjoy mountain biking, writing, cooking and hiking in my free time.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -147,8 +147,16 @@ content:
         title: Red Hat
         link: redhat.com
         # link_text: boringcompany.com
+        sub_title: Senior Software Engineer
+        caption: September 2025 - Currently
+        description: | # this will include new lines to allow paragraphs
+            JBoss Sustaining Engineering Team working with Red Hat JBoss Enterprise Application Platform (EAP) and Wildfly components issue fixes;
+      - layout: left
+        title: Red Hat
+        link: redhat.com
+        # link_text: boringcompany.com
         sub_title: Senior Software Maintenance Engineer
-        caption: September 2021 - Present
+        caption: September 2021 - 2024
         description: | # this will include new lines to allow paragraphs
             Java Products Maintenance by creating patches, sample applications, and writing articles to guide customers to use product features and documentation. I am the current JBoss Security Lead (SBR Coach) working with RH-SSO (Keycloak) and JBoss EAP Elytron (Wildfly Elytron).
       - layout: left
